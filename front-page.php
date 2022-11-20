@@ -9,11 +9,15 @@
 <title>Singular - Home</title>
 <link href="images/icons/favicon.svg" rel="shortcut icon" type="image/x-icon">
 <!-- Singular External CSS -->
-<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<!-- <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="css/styles.css" rel="stylesheet" type="text/css" media="all">
 <link href="css/responsive.css" rel="stylesheet" type="text/css" media="all">
 <link href="css/loaders.min.css" rel="stylesheet" type="text/css" media="all">
-<link href="css/animation.css" rel="stylesheet" type="text/css" media="all">
+<link href="css/animation.css" rel="stylesheet" type="text/css" media="all"> -->
+<?php
+  wp_head();
+?>
+
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 </head>
 
@@ -413,12 +417,16 @@
 </div>
 
 <!-- Singular Scripts -->
-<script src="js/jquery.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/html5.min.js"></script>
-<script src="js/placeholders.min.js"></script>
-<script src="js/respond.min.js"></script>
-<script src="js/plugins.js"></script>
-<script src="js/scripts.js"></script>
+<!-- <script src="wp-content/themes/singular/theme-template/js/jquery.min.js"></script>
+<script src="wp-content/themes/singular/theme-template/js/bootstrap.min.js"></script>
+<script src="wp-content/themes/singular/theme-template/js/html5.min.js"></script>
+<script src="wp-content/themes/singular/theme-template/js/placeholders.min.js"></script>
+<script src="wp-content/themes/singular/theme-template/js/respond.min.js"></script>
+<script src="wp-content/themes/singular/theme-template/js/plugins.js"></script>
+<script src="wp-content/themes/singular/theme-template/js/scripts.js"></script> -->
+
+<?php
+  wp_footer(  );
+?>
 </body>
 </html>
