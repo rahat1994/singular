@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="72px" viewBox="0 0 79 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Play</title>
+    <g id="⚡️-UI-Kit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage-Desktop" transform="translate(-1142.000000, -1505.000000)">
+            <g id="Feature-01" transform="translate(0.000000, 1024.000000)">
+                <g id="Content" transform="translate(166.000000, 180.000000)">
+                    <g id="Video" transform="translate(0.000000, 256.000000)">
+                        <g id="UI/Play" transform="translate(976.000000, 45.000000)">
+                            <circle id="Background" fill="#FF6363" fill-rule="evenodd" cx="43" cy="36" r="36"></circle>
+                            <circle id="Border" stroke="#000000" stroke-width="1" cx="36" cy="36" r="35.5"></circle>
+                            <path d="M32.5598098,52 C31.6982876,52 31,51.2966401 31,50.4293442 L31,23.5711306 C31,22.9687989 31.3418313,22.4194186 31.8803659,22.1569615 C32.4189005,21.8945044 33.0590959,21.9652043 33.5283038,22.3389511 L50.4073251,35.7680579 C50.7816539,36.0659391 51,36.5198837 51,37.0002374 C51,37.4805911 50.7816539,37.9345357 50.4073251,38.2324168 L33.5275237,51.6619163 C33.2518806,51.8809279 32.9109632,52 32.5598098,52 Z M34,27 L34,47 L47,37.0001927 L34,27 Z" id="Icon" fill="#000000" fill-rule="evenodd"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
